@@ -1,5 +1,5 @@
 # webtasks-dropboxer
-Uses webtasks.io to download a url to a dropbox account. Prints contents of dropbox account.
+Uses webtask.io to download a url to a dropbox account. Prints contents of dropbox account.
 
 please give it the following url params:
 
